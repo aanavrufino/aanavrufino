@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+meu nome é Ana Vitoria 💗
+tenho 16 anos e sou a filha mais nova 🤠
+moro no Brasil 🇧🇷
 <!--
 **aanavrufino/aanavrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
